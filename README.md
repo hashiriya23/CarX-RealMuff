@@ -1,6 +1,6 @@
 # RealMuff
 
-Realistic exhaust smoke modification for CarX Drift Racing Online, built for the Kino Script Loader (KSL) framework.
+Realistic exhaust smoke modification for CarX Drift Racing Online, built for the Kino.
 
 <p align="center">
   <img src="Resources/icon.png" width="128" height="128" alt="RealMuff Icon" />
@@ -24,11 +24,11 @@ RealMuff adds dynamic exhaust smoke effects to CarX Drift Racing Online. Smoke e
   - Throttle blips create realistic puffs on sudden acceleration.
 
 - **Combustion Engine Character Presets**:
-  - **Cold Start (Warmup Vapor)**: Clean white condensation water vapor with an automatic 20-second warmup timer (dissipates into thin air as the exhaust reaches operating temperature). Includes manual restart trigger.
-  - **2-Stroke (Oli Samping / RX-King Style)**: Dense bluish-white oil haze at idle and low RPM, automatically leaning out clean (smokeless) at screaming redline RPM.
-  - **Oil Leak (Ring Piston Bocor)**: Milky white-blue smoke from worn rings/valve seals, billowing exponentially thicker under high RPM and turbo boost.
-  - **Diesel (Cumi Darat / Rolling Coal)**: Heavy dark charcoal soot with massive rolling cloud bursts under sudden throttle blips.
-  - **Rich Fuel (Rotary / Tuned JDM Spirit)**: Unburnt fuel gray vapor puffs during deceleration and quick throttle transitions.
+  - **Cold Start**: Clean white condensation water vapor with an automatic 20-second warmup timer (dissipates into thin air as the exhaust reaches operating temperature). Includes manual restart trigger.
+  - **2-Stroke**: Dense bluish-white oil haze at idle and low RPM, automatically leaning out clean (smokeless) at screaming redline RPM.
+  - **Oil Leak**: Milky white-blue smoke from worn rings/valve seals, billowing exponentially thicker under high RPM and turbo boost.
+  - **Diesel**: Heavy dark charcoal soot with massive rolling cloud bursts under sudden throttle blips.
+  - **Rich Fuel**: Unburnt fuel gray vapor puffs during deceleration and quick throttle transitions.
   - **Custom Tuner**: Full manual control over density, lifetime, speeds, and custom RGBA colors.
 
 - **Smart Exhaust Detection**:
