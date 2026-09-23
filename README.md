@@ -48,7 +48,7 @@ RealMuff adds dynamic exhaust smoke effects to CarX Drift Racing Online. Smoke e
 
 ## Installation
 
-1. Make sure you have [Kino Script Loader (KSL)](https://github.com/trbflcx/kino) installed for CarX Drift Racing Online.
+1. Make sure you have Kino (https://github.com/trbflcx/kino) installed for CarX Drift Racing Online.
 2. Download or copy `RealMuff.ksm` into your CarX install directory:
    ```
    <CarX Directory>/kino/mods/RealMuff.ksm
